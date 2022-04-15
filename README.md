@@ -3,4 +3,5 @@
 ## Install
 ```
 bash install.sh
+conda activate debug-practice
 ```
